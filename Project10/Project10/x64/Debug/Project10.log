@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\OOP project\Project10\Project10\Source.cpp(434,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\OOP project\Project10\Project10\Source.cpp(456,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(557,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\OOP project\Project10\Project10\Source.cpp(651,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(732,19): warning C4305: '=': truncation from 'double' to 'float'
+D:\OOP project\Project10\Project10\Source.cpp(1343,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(1895,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(2124,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(2124,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(2124,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(2239,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\OOP project\Project10\Project10\Source.cpp(2239,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project10.vcxproj -> D:\OOP project\Project10\x64\Debug\Project10.exe
